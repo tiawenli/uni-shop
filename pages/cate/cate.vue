@@ -1,6 +1,6 @@
 <template>
   <view>
-    index
+    cate
   </view>
 </template>
 
